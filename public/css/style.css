@@ -1,0 +1,45 @@
+.card-header{
+
+}
+.all_links{
+    width: 100%;
+    background-color: #0b2e13;
+    color: #0b2e13;
+}
+.products{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.header_1 ul,
+.header_1 ol {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style-type: none;
+
+}
+.header_1 a{
+    display: block;
+    text-decoration: none;
+    font-size: 24px;
+    line-height: 40px;
+    color: #0f6674;
+
+}
+.advertising{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#footer{
+    position: fixed;
+    left: 0; bottom: 0;
+    padding: 10px;
+    background: #39b54a;
+    color: #fff;
+    width: 100%;
+}
+
+
